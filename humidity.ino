@@ -9,7 +9,7 @@ void setup() {
 
 Serial.begin(9600);
 
-Serial.println("welcome to TechPonder Humidity and temperature Detector"); }
+Serial.println("Humidity and temperature Detector"); }
 
 void loop() { // READ DATA
 
